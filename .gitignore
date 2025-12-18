@@ -1,0 +1,8 @@
+plantvillage dataset/
+trained_model/
+*.h5
+*.keras
+*.ipynb
+__pycache__/
+.env
+credentials.toml
